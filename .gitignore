@@ -178,3 +178,4 @@ out/build
 
 node_modules/
 wheelhouse/
+examples/noise_twin/output/
